@@ -1,0 +1,2 @@
+# FerdinandOlivares_4__10152020_A
+Project focusing on Web optimization by means of improving the website's SEO and accessibility. The project involves changing two websites' appearance and content to maximize the odds of a higher rank in search engine results particularly for "freelance web designer Atlanta". Furthermore, this promotes the use of other programs for analyzing the speed and performance of the website
